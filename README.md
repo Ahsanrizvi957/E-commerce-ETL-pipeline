@@ -1,4 +1,3 @@
-# Ecommerce_etl_project
 # E-commerce ETL Pipeline
 
 ## Project Overview
